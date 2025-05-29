@@ -8,7 +8,7 @@
 #Purpose:   This script is used to run the Von Bertalanffy growth model for Mille Lacs walleye
 
 #Load Packages
-
+#LET'S SEE HOW I CAN SCREW THIS UP
 
 #Set Paths
 main_path<-"C:/Users/EU01237640/OneDrive - State of Minnesota - MN365/GitExample/VonBExample/" #Point this to where the folders for analysis are
